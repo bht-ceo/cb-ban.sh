@@ -4,7 +4,7 @@ pkg install git
 
 pkg install bash
 
-git clone https://github.com/cb-ban.sh
+git clone https://github.com/2448766/cb-ban.sh
 
 cd cb-ban.sh
 
